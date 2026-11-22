@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Ozordi Jefferson
-### Software Engineer · Product Engineer · Building Modern Web Applications
+### Software Engineer · Product Engineer · Technology and product thinking.
 
 I'm a Full-Stack Engineer based in Lagos, Nigeria, passionate about building software that is both intuitive to use and technically sound.
 
